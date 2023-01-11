@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 <!--  Github status -->
 
-![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-Chandra-Mondol&show_icons=true&theme=gruvbox)
+![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-Chandra-Mondol&show_icons=true)
 
 
 <!-- Top Language uses -->
