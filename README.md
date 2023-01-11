@@ -85,15 +85,19 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h2 dir="auto"><a id="user-content-----------------connect-with-me-" class="anchor" aria-hidden="true" href="#----------------connect-with-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-        <span><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10889e3ced9cb6737560b585d981a91eab3b8e18b1ba96f3ee90fd29a50fb357/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f3130302f3030303030302f636f6e746163742d636172642e706e67"><img width="30px" height="30px" src="https://camo.githubusercontent.com/10889e3ced9cb6737560b585d981a91eab3b8e18b1ba96f3ee90fd29a50fb357/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f3130302f3030303030302f636f6e746163742d636172642e706e67" data-canonical-src="https://img.icons8.com/clouds/100/000000/contact-card.png" style="max-width: 100%;"></a></span>
+        <span><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10889e3ced9cb6737560b585d981a91eab3b8e18b1ba96f3ee90fd29a50fb357/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f3130302f3030303030302f636f6e746163742d636172642e706e67"><img width="30px" height="30px" src="https://camo.githubusercontent.com/10889e3ced9cb6737560b585d981a91eab3b8e18b1ba96f3ee90fd29a50fb357/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f3130302f3030303030302f636f6e746163742d636172642e706e67" data-canonical-src="https://img.icons8.com/clouds/100/000000/contact-card.png" style="max-width: 100%;"></a>-->
+
+
+<!-- Contact With me -->
+
+</span>
         <b>Connect with me :</b>
 </h2>
 <p align="left" dir="auto">
     <a href="https://www.linkedin.com/in/md-abdullah-all-naim/" rel="nofollow"><img src="https://camo.githubusercontent.com/f4f0ef7493c38feb75ede98d04b23bf1d019e30f9239f5f7113a3a84cb0d791d/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/linkedin.png" style="max-width: 100%;"></a>
     <a href="https://www.facebook.com/mdabdullah.allnaim0489" rel="nofollow"><img src="https://camo.githubusercontent.com/e1ce34534e8d068b5c6a64380427a2bc416bc62bc6661ea515a41d65e5a74c86/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f66616365626f6f6b2e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/facebook.png" style="max-width: 100%;"></a>
     <a href="https://www.instagram.com/abdullah.allnaim/" rel="nofollow"><img src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width: 100%;"></a>
-</p> -->
-
+</p> 
 
 <!--  Github status -->
 
