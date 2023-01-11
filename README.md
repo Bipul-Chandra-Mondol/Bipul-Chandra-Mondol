@@ -63,31 +63,6 @@ Here are some ideas to get you started:
 
 
 
-<!-- 
-<p align="center" dir="auto">
-    <a href="https://github.com/abdullahallnaim/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="naim's streak" src="https://camo.githubusercontent.com/d98edd30552fcc686bb64afe2b548c1350386b247b9b76d522d00f2cc8797ac7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616264756c6c6168616c6c6e61696d267468656d653d6f6e656461726b26686964655f626f726465723d74727565267374726f6b653d303030302662675f636f6c6f723d3036304130434430" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahallnaim&amp;theme=onedark&amp;hide_border=true&amp;stroke=0000&amp;bg_color=060A0CD0" style="max-width: 100%;">
-    </a>
-</p>
-<h2 dir="auto"><a id="user-content-----------------my-github-statistic-" class="anchor" aria-hidden="true" href="#----------------my-github-statistic-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-        <span><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/157abbe801bcede1ef4867bcb2aa02cc29de729601761c2379f5e55b2297e245/68747470733a2f2f696d672e69636f6e73382e636f6d2f646f6f646c652f34382f3030303030302f737461746973746963732e706e67"><img width="30" height="30" src="https://camo.githubusercontent.com/157abbe801bcede1ef4867bcb2aa02cc29de729601761c2379f5e55b2297e245/68747470733a2f2f696d672e69636f6e73382e636f6d2f646f6f646c652f34382f3030303030302f737461746973746963732e706e67" data-canonical-src="https://img.icons8.com/doodle/48/000000/statistics.png" style="max-width: 100%;"></a></span>
-        <b>My Github Statistic :</b>
-</h2>
-    <a href="https://github.com/abdullahallnaim/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://camo.githubusercontent.com/4e5734f524f16bb3f2657f1ba3d8873054bee708c005f579512b99e6e71058e1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616264756c6c6168616c6c6e61696d2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d6f6e656461726b26686964655f626f726465723d74727565266261636b67726f756e643d3036304130434430" data-canonical-src="https://github-readme-stats.vercel.app/api?username=abdullahallnaim&amp;show_icons=true&amp;count_private=true&amp;theme=onedark&amp;hide_border=true&amp;background=060A0CD0" style="max-width: 100%;"></a>
-  <a href="https://github.com/abdullahallnaim/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://camo.githubusercontent.com/ff7abd95045eac15e4d9b1e3ab45ed3d572b2198606eb83cbe4237e8acc3b796/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616264756c6c6168616c6c6e61696d266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d6f6e656461726b26686964655f626f726465723d74727565266261636b67726f756e643d3036304130434430" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahallnaim&amp;langs_count=8&amp;count_private=true&amp;layout=compact&amp;theme=onedark&amp;hide_border=true&amp;background=060A0CD0" style="max-width: 100%;"></a>
-  <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br>
-<br>
-<span>
-<a href="https://github.com/abdullahallnaim/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://camo.githubusercontent.com/a3ac49ce5bb1fce231c0f22b8ce30ebfba8b1ba5f176683af7db173e17eae080/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d616264756c6c6168616c6c6e61696d267468656d653d7265646963616c26636f6c6f723d354243444543266c696e653d35424344454326706f696e743d46464646464626686964655f626f726465723d747275652662675f636f6c6f723d3036304130434430" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=abdullahallnaim&amp;theme=redical&amp;color=5BCDEC&amp;line=5BCDEC&amp;point=FFFFFF&amp;hide_border=true&amp;bg_color=060A0CD0" style="max-width: 100%;"></a>
-</span>
-<br>
-<br>
-<h2 dir="auto"><a id="user-content-----------------connect-with-me-" class="anchor" aria-hidden="true" href="#----------------connect-with-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-        <span><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10889e3ced9cb6737560b585d981a91eab3b8e18b1ba96f3ee90fd29a50fb357/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f3130302f3030303030302f636f6e746163742d636172642e706e67"><img width="30px" height="30px" src="https://camo.githubusercontent.com/10889e3ced9cb6737560b585d981a91eab3b8e18b1ba96f3ee90fd29a50fb357/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f3130302f3030303030302f636f6e746163742d636172642e706e67" data-canonical-src="https://img.icons8.com/clouds/100/000000/contact-card.png" style="max-width: 100%;"></a>-->
-
-
 <!-- Contact With me -->
 
 </span>
@@ -98,6 +73,8 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/mdabdullah.allnaim0489" rel="nofollow"><img src="https://camo.githubusercontent.com/e1ce34534e8d068b5c6a64380427a2bc416bc62bc6661ea515a41d65e5a74c86/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f66616365626f6f6b2e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/facebook.png" style="max-width: 100%;"></a>
     <a href="https://www.instagram.com/abdullah.allnaim/" rel="nofollow"><img src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width: 100%;"></a>
 </p> 
+
+
 
 <!--  Github status -->
 
