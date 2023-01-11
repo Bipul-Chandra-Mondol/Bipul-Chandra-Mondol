@@ -95,8 +95,9 @@ Here are some ideas to get you started:
 </p> -->
 
 <!--  Github status -->
-[![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-Chandra-Mondol)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-Chandra-Mondol)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-Chandra-Mondol&show_icons=true&theme=radical)
 
 <!-- Top Language uses -->
 
