@@ -93,3 +93,6 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/mdabdullah.allnaim0489" rel="nofollow"><img src="https://camo.githubusercontent.com/e1ce34534e8d068b5c6a64380427a2bc416bc62bc6661ea515a41d65e5a74c86/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f66616365626f6f6b2e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/facebook.png" style="max-width: 100%;"></a>
     <a href="https://www.instagram.com/abdullah.allnaim/" rel="nofollow"><img src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width: 100%;"></a>
 </p> -->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-Chandra-Mondol)](https://github.com/anuraghazra/github-readme-stats)
