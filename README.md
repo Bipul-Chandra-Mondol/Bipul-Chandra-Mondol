@@ -94,10 +94,10 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/abdullah.allnaim/" rel="nofollow"><img src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width: 100%;"></a>
 </p> -->
 
+
 <!--  Github status -->
-<!-- [![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-Chandra-Mondol)](https://github.com/anuraghazra/github-readme-stats)
- -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-Chandra-Mondol&show_icons=true&theme=gruvbox)
+
+![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-Chandra-Mondol&show_icons=true&theme=gruvbox)
 
 <!-- Top Language uses -->
 
