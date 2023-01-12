@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <!--  Github status -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-Chandra-Mondol&show_icons=true&theme=radical)
 
 
 
