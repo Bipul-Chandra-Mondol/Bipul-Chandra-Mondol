@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 </a>      
   <a href="mailto:bipulchandramondol@gmai.com">
     &nbsp &nbsp &nbsp 
-  <img src="https://img.icons8.com/stickers/256/gmail-new.png" style="width: 40px; height: 40px;">
+  <img src="https://img.icons8.com/stickers/256/gmail-new.png" style="width: 45px; height: 45px;">
 </a>
  
 </p>
