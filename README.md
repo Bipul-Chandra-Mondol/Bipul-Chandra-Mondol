@@ -105,5 +105,7 @@ Here are some ideas to get you started:
 </a>
  
 </p>
-
-
+<p>
+<img src="https://img.icons8.com/stickers/256/phone.png" alt="Phone:" style="width: 40px; height: 40px;" >
+        +88 01824919947
+</p>
