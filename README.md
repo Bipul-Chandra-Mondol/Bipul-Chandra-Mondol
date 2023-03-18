@@ -101,7 +101,8 @@ Here are some ideas to get you started:
 </a>      
   <a href="tel:11234567890">
     &nbsp &nbsp &nbsp 
-  <img src="https://img.icons8.com/stickers/256/ringer-volume.png" alt="Phone Logo" style="width: 40px; height: 40px;">
+<!--   <img src="https://img.icons8.com/stickers/256/ringer-volume.png" alt="Phone Logo" style="width: 40px; height: 40px;"> -->
+          01824919947
 </a>
  
 </p>
