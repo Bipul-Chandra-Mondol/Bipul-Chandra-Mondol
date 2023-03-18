@@ -106,5 +106,5 @@ Here are some ideas to get you started:
  
 </p>
 <p>
-Phone: +88 01824919947
+        <b>Phone:</b> +88 01824919947
 </p>
