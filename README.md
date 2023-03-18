@@ -100,10 +100,7 @@ Here are some ideas to get you started:
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/897px-WhatsApp.svg.png" alt="WhatsApp Logo" style="width: 50px; height: 50px;">
 </a>      
   
- <a href="tel://+11234567890">
-    &nbsp &nbsp &nbsp 
-  <img src="https://img.icons8.com/stickers/256/ringer-volume.png" alt="Phone Logo" style="width: 40px; height: 40px;">
-</a>
+ <a title="Click To Call (07) 3103 3642" href="tel:+6131033642">(07) 3103 3642</a>
 </p>
 
 
