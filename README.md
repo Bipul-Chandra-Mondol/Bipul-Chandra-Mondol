@@ -100,6 +100,9 @@ Here are some ideas to get you started:
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/897px-WhatsApp.svg.png" alt="WhatsApp Logo" style="width: 50px; height: 50px;">
 </a>      
   
+ <a href="tel:+8801824919947">
+  <img src="phone-logo.png" alt="Phone Logo" style="width: 40px; height: 40px;">
+</a>
 </p>
 
 
