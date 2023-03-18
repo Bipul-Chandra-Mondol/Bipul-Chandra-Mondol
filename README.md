@@ -106,5 +106,5 @@ Here are some ideas to get you started:
  
 </p>
 <p>
-<img src="https://img.icons8.com/stickers/256/phone-disconnected.png" alt="Phone:" style="width: 30px; height: 30px;"> +88 01824919947
+Phone: +88 01824919947
 </p>
