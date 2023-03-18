@@ -94,7 +94,7 @@ Here are some ideas to get you started:
   <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
 </a>
   <a href="https://web.whatsapp.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/897px-WhatsApp.svg.png" alt="WhatsApp Logo" style="width: 50px; height: 50px;">
+  &nbsp &nbsp &nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/897px-WhatsApp.svg.png" alt="WhatsApp Logo" style="width: 50px; height: 50px;">
 </a>      
   
 </p>
