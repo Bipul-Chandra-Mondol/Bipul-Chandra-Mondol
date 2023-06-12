@@ -85,7 +85,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/bipul-chandra-mondol/" rel="nofollow"><img src="https://camo.githubusercontent.com/f4f0ef7493c38feb75ede98d04b23bf1d019e30f9239f5f7113a3a84cb0d791d/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/linkedin.png" style="max-width: 100%;"></a>
 
         
-<a href="https://www.facebook.com/bipul.mondol.14855/" style="max-width: 100%;">
+<a href="https://www.facebook.com/bipul.mondol.14855/" style="margin:10px 0px">
         
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
 </a>
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
   <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
 </a>
   <a href="https://wa.me/qr/RCPKOVA24P5GI1">
-  &nbsp &nbsp &nbsp 
+  
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/897px-WhatsApp.svg.png" alt="WhatsApp Logo" style="width: 50px; height: 50px;">
 </a>      
   <a href="mailto:bipulchandramondol@gmai.com">
