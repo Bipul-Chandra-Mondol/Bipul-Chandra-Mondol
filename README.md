@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p dir="auto"> 
     </p><p dir="auto"> 
              <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d4afd5aa1b17b2e54ac1b50089f6606a20d19302b44d12c16382500a8d3c56c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32352f3030303030302f70726f6a6563742d6d616e6167656d656e742e706e67"><img src="https://camo.githubusercontent.com/5d4afd5aa1b17b2e54ac1b50089f6606a20d19302b44d12c16382500a8d3c56c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32352f3030303030302f70726f6a6563742d6d616e6167656d656e742e706e67" data-canonical-src="https://img.icons8.com/color/25/000000/project-management.png" style="max-width: 100%;"></a>
-            <span>I’m currently doing <b>Competitive Programming</b></span>
+            <span>I’m currently doing <b>Python Django Development</b></span>
     </p>
     <p dir="auto">
              <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/270cad3038c9ca3320c797d03939be7ae5dd353c3350a46de91b475a60415012/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32382f3030303030302f6c6561726e696e672e706e67"><img src="https://camo.githubusercontent.com/270cad3038c9ca3320c797d03939be7ae5dd353c3350a46de91b475a60415012/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32382f3030303030302f6c6561726e696e672e706e67" data-canonical-src="https://img.icons8.com/color/28/000000/learning.png" style="max-width: 100%;"></a>
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
         
 <a href="https://www.facebook.com/bipul.mondol.14855/">
         &nbsp &nbsp &nbsp
-  <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
+  <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Logo" style="width: 40px; height: 40px; text-decoration: none;">
 </a>
 
  <a href="https://www.instagram.com/bipul.mondol.14855/">
