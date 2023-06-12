@@ -90,8 +90,8 @@ Here are some ideas to get you started:
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
 </a>
 
- <a href="https://www.instagram.com/bipul.mondol.14855/">
-         &nbsp &nbsp &nbsp
+ <a href="https://www.instagram.com/bipul.mondol.14855/" style="margin:5px 0px">
+         
   <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
 </a>
   <a href="https://wa.me/qr/RCPKOVA24P5GI1">
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/897px-WhatsApp.svg.png" alt="WhatsApp Logo" style="width: 50px; height: 50px;">
 </a>      
   <a href="mailto:bipulchandramondol@gmai.com">
-    &nbsp &nbsp &nbsp 
+     
   <img src="https://img.icons8.com/stickers/256/gmail-new.png" style="width: 45px; height: 45px;">
 </a>
  
