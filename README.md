@@ -82,10 +82,10 @@ Here are some ideas to get you started:
         <b>Connect with me :</b>
 </h2>
 <p align='left'>
-    <a href = "https://www.linkedin.com/in/md-abdullah-all-naim/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-    <a href = "https://www.facebook.com/mdabdullah.allnaim0489"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-    <a href = "https://www.instagram.com/abdullah.allnaim/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href = "https://www.instagram.com/abdullah.allnaim/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/897px-WhatsApp.svg.png" style="width: 50px; height: 50px;"></a>
+    <a href = "https://www.linkedin.com/in/bipul-chandra-mondol/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+    <a href = "https://www.facebook.com/bipul.mondol.14855/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+    <a href = "https://www.instagram.com/bipul.mondol.14855/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://wa.me/qr/RCPKOVA24P5GI1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/897px-WhatsApp.svg.png" style="width: 50px; height: 50px;"></a>
     <a href="mailto:bipulchandramondol@gmai.com"><img src="https://img.icons8.com/stickers/256/gmail-new.png" style="width: 45px; height: 45px;"></a>
 </p>
 <p>
