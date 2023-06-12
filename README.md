@@ -81,34 +81,8 @@ Here are some ideas to get you started:
 </span>
         <b>Connect with me :</b>
 </h2>
-<p align="left" dir="auto">
-    <a href="https://www.linkedin.com/in/bipul-chandra-mondol/" rel="nofollow"><img src="https://camo.githubusercontent.com/f4f0ef7493c38feb75ede98d04b23bf1d019e30f9239f5f7113a3a84cb0d791d/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/linkedin.png" style="max-width: 100%;"></a>
-
-        
-<a href="https://www.facebook.com/bipul.mondol.14855/" style="margin:5px 0px">
-        
-  <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
-</a>
-
- <a href="https://www.instagram.com/bipul.mondol.14855/" style="margin:5px 0px">
-         
-  <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
-</a>
-<!--   <a href="https://wa.me/qr/RCPKOVA24P5GI1">
-  
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/897px-WhatsApp.svg.png" alt="WhatsApp Logo" style="width: 50px; height: 50px;">
-</a>       -->
-    <a href="https://www.instagram.com/bipul.mondol.14855/" style="margin:5px 0px">
-         
-  <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
-</a>
-        
-  <a href="mailto:bipulchandramondol@gmai.com">
-     
-  <img src="https://img.icons8.com/stickers/256/gmail-new.png" style="width: 45px; height: 45px;">
-</a>
- 
-</p>
-<p>
-        <b>Phone:</b> +88 01824919947
+<p align='left'>
+    <a href = "https://www.linkedin.com/in/md-abdullah-all-naim/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+    <a href = "https://www.facebook.com/mdabdullah.allnaim0489"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+    <a href = "https://www.instagram.com/abdullah.allnaim/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
