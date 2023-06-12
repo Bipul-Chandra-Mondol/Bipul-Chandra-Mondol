@@ -85,5 +85,5 @@ Here are some ideas to get you started:
     <a href = "https://www.linkedin.com/in/md-abdullah-all-naim/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
     <a href = "https://www.facebook.com/mdabdullah.allnaim0489"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
     <a href = "https://www.instagram.com/abdullah.allnaim/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href = "https://www.instagram.com/abdullah.allnaim/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://www.instagram.com/abdullah.allnaim/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/897px-WhatsApp.svg.png"/></a>
 </p>
