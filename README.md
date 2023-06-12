@@ -85,7 +85,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/bipul-chandra-mondol/" rel="nofollow"><img src="https://camo.githubusercontent.com/f4f0ef7493c38feb75ede98d04b23bf1d019e30f9239f5f7113a3a84cb0d791d/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/linkedin.png" style="max-width: 100%;"></a>
 
         
-<a href="https://www.facebook.com/bipul.mondol.14855/" style="text-decoration: none;">
+<a href="https://www.facebook.com/bipul.mondol.14855/" style="max-width: 100%;">
         &nbsp &nbsp &nbsp
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
 </a>
