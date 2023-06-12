@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
         
 <a href="https://www.facebook.com/bipul.mondol.14855/" style="max-width: 100%;">
-        &nbsp &nbsp &nbsp
+        
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Logo" style="width: 40px; height: 40px;">
 </a>
 
